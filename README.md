@@ -7,7 +7,7 @@ This repository contains my solutions written in **JavaScript**, as I build and 
 
 ## 🚀 Challenge List (JavaScript)
 
-1. [BMI Calculator](./bmiCalculator.js)  
+1. [Buid a BMI Calculator](./bmiCalculator.js)  
    A JavaScript function that calculates BMI and returns a message based on the result.
 
 ---
