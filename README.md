@@ -10,6 +10,7 @@ This repository contains my solutions written in **JavaScript**, as I build and 
 1. [Buid a BMI Calculator](./bmiCalculator.js)  
    A JavaScript function that calculates BMI and returns a message based on the result.
 2. [Leap Year Checker](./leapYear.js)
+
    A JavaScript function checks whether a given year is a leap year or not.
 
 ---
