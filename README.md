@@ -9,6 +9,8 @@ This repository contains my solutions written in **JavaScript**, as I build and 
 
 1. [Buid a BMI Calculator](./bmiCalculator.js)  
    A JavaScript function that calculates BMI and returns a message based on the result.
+2. [Leap Year Checker](./leapYear.js)
+   A JavaScript function checks whether a given year is a leap year or not.
 
 ---
 
@@ -26,8 +28,12 @@ Write a function that returns one of the following messages depending on the BMI
 - BMI between 18.5–24.9 → `"Your BMI is <bmi>, so you have a normal weight."`
 - BMI > 24.9 → `"Your BMI is <bmi>, so you are overweight."`
 
-#### 💡 Example Use
+### 🗓️ 2. Leap Year Checker
 
-```javascript
-bmiCalculator(44, 1.5);
-// Returns: "Your BMI is 19.555555555555557, so you have a normal weight."
+This simple JavaScript function checks whether a given year is a leap year or not.
+It follows the standard leap year rules:
+
+    A year is a leap year if it's divisible by 4 but not divisible by 100,
+    unless it's also divisible by 400.
+
+Includes test cases to demonstrate how it works.
