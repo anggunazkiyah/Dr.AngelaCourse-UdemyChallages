@@ -11,6 +11,9 @@ This repository contains my solutions written in **JavaScript**, as I build and 
    - A JavaScript function that calculates BMI and returns a message based on the result.
 2. [Leap Year Checker](./leapYear.js)
    - A JavaScript function checks whether a given year is a leap year or not.
+3. [Who's Buy Lunch Today? Code Challage](./whosBuyLunch.js)
+   - A JavaScript function picks a random person from a list to pay for lunch.
+
 
 ---
 
@@ -37,3 +40,15 @@ It follows the standard leap year rules:
     unless it's also divisible by 400.
 
 Includes test cases to demonstrate how it works.
+
+### 🍽️ Who's Paying
+
+This simple JavaScript function picks a random person from a list to pay for lunch.
+
+**How it works:**
+- Takes a list of names.
+- Picks one name at random.
+- Returns a message saying who will pay for lunch.
+
+Includes example usage and sample output.
+
