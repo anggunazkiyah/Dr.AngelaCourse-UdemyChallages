@@ -13,8 +13,8 @@ This repository contains my solutions written in **JavaScript**, as I build and 
    - A JavaScript function checks whether a given year is a leap year or not.
 3. [Who's Buy Lunch Today? Code Challange](./whosBuyLunch.js)
    - A JavaScript function picks a random person from a list to pay for lunch.
-4.[99 Bottles Lyrics Challange](./nineNineBottle.js)
- - A JavaScript program that counts down from 99 to 1, printing the traditional "99 Bottles of Beer" song lyrics with proper singular/plural grammar handling and the classic ending verse.
+4. [99 Bottles Lyrics Challange](./nineNineBottle.js)
+   - A JavaScript program that counts down from 99 to 1, printing the traditional "99 Bottles of Beer" song lyrics with proper singular/plural grammar handling and the classic ending verse.
 
 
 ---
@@ -54,13 +54,15 @@ This simple JavaScript function picks a random person from a list to pay for lun
 
 Includes example usage and sample output.
 
-###🍺 99 Bottles Lyrics Challange
-A JavaScript program that counts down from 99 to 1, printing the traditional "99 Bottles" song lyrics.
-How it works:
+### 🍺 99 Bottles Lyrics Challange
 
-Counts down from 99 bottles to 1 bottle
-Handles proper grammar (singular/plural forms)
-Includes the classic ending verse
+This JavaScript program that counts down from 99 to 1, printing the traditional "99 Bottles" song lyrics.
+
+**How it works:**
+
+- Counts down from 99 bottles to 1 bottle.
+- Handles proper grammar (singular/plural forms).
+- Includes the classic ending verse.
 
 Uses while loops, conditionals, and template literals to generate the complete song.
 
