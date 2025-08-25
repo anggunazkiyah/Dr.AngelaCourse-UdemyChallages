@@ -15,6 +15,8 @@ This repository contains my solutions written in **JavaScript**, as I build and 
    - A JavaScript function picks a random person from a list to pay for lunch.
 4. [99 Bottles Lyrics Challange](./nineNineBottle.js)
    - A JavaScript program that counts down from 99 to 1, printing the traditional "99 Bottles of Beer" song lyrics with proper singular/plural grammar handling and the classic ending verse.
+5. [Fibonacci Generator Function](./fibonacciGenerator.js)
+   - A JavaScript function that generates the first n numbers in the Fibonacci sequence and returns them as an array.
 
 
 ---
@@ -65,4 +67,16 @@ This JavaScript program that counts down from 99 to 1, printing the traditional 
 - Includes the classic ending verse.
 
 Uses while loops, conditionals, and template literals to generate the complete song.
+
+### 🔢 Fibonacci Generator Challenge
+This JavaScript function generates the first n numbers in the Fibonacci sequence and returns them as an array.
+How it works:
+
+- Takes a number n as input (how many Fibonacci numbers to generate).
+- Handles edge cases for n = 0, 1, and 2.
+- Uses iterative approach to build the sequence efficiently.
+- Each number is the sum of the two preceding numbers (0, 1, 1, 2, 3, 5, 8...).
+
+Uses conditional statements, arrays, and for loops to generate complete Fibonacci sequences of any length.
+Perfect for GitHub! This matches the style you wanted with the emoji, clear structure, and technical details. 
 
